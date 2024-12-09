@@ -1,5 +1,8 @@
+package src.test.java.com.example;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
+
+import src.main.java.com.example.Main;
 
 public class MainTest {
 
